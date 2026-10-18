@@ -27,7 +27,7 @@ E mais!
 
 | Passo a passo para realizar a instalação desta calculadora <b>sem Git!</b>
 
-- Acesse os [`releases`](https://github.com/niconsoli/calculadora/releases);
+- Acesse os [`releases`](https://github.com/niconsoli/calculadoraJava/releases);
 - Realize o download do jar mais atualizado;
 - Abra o terminal na pasta baixada;
 - Digite `java -jar [caminho-do-arquivo]`;
